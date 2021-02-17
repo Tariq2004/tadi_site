@@ -1,0 +1,135 @@
+body{
+  margin: 0px;
+  background-color: #e8eae6;
+   font-family: 'Lobster Two', cursive;
+}
+
+
+/*----------------------------------------------------------------------*/
+.Intro{
+  background-color: #74c7b8;
+  width: 71%;
+  margin: auto;
+}
+
+.man_img{
+  height: 200px;
+  margin-left: 5px;
+  margin-top: 3px;
+  float: left;
+}
+
+.videoo{
+  height: 200px;
+  margin-top: 200px;
+  position: relative;
+  right: 50px;
+  border-radius: 50%;
+  position:relative;
+  right: 200px;
+}
+
+.HH1{
+  position: relative;
+  top: 70px;
+  left: 5px;
+}
+
+.pp1{
+  position: relative;
+  left:400px;
+  bottom: 130px;
+}
+/*-------------------------------------------------------------------------------------*/
+
+
+.Content{
+  background-color:#74c7b8 ;
+  margin-left: 4px;
+  height: 130px;
+  width: 71%;
+  margin: auto;
+}
+
+.hh4{
+  color: darkcyan;
+  margin-left: 5px;
+}
+
+.hh3{
+  color:darkcyan;
+  margin-left: 5px;
+}
+
+.btn {
+  background: black;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #d9345d);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #d9345d);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #d9345d);
+  background-image: -o-linear-gradient(top, #3cb0fd, #d9345d);
+  background-image: linear-gradient(to bottom, #3cb0fd, #d9345d);
+  text-decoration: none;
+}
+/*-----------------------------------------------------------------------*/
+.information{
+  background-color: #74c7b8;
+  height: 300px;
+  width: 71%;
+  margin: auto;
+  margin-bottom: 12px;
+}
+
+.hh2{
+
+}
+
+
+.skills_img{
+  height: 200px;
+  margin-left: 10px;
+  float: left;
+}
+
+.hhh3{
+  position: relative;
+  left:20px;
+}
+
+
+.skills{
+  position: relative;
+  left: 30px;
+}
+/*------------------------------------------------------*/
+
+.body1{
+  background-color: cadetblue;
+  font-family: 'Oranienbaum', serif;
+}
+
+table,td {
+  border: 1px dotted black;
+  margin: auto;
+  margin-top: 50px;
+  padding: 50px;
+  color: darkturquoise;
+  background-color: white;
+}
